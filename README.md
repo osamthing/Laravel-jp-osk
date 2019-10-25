@@ -18,3 +18,7 @@ Laravelを即座に日本語のWEBアプリケーションとして使えるよ�
 
 
 
+## Repository
+
+https://github.com/osamthing/Laravel-jp-osk
+
